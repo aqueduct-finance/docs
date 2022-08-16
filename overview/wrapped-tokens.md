@@ -1,2 +1,0 @@
-# 🪙 Wrapped Tokens
-

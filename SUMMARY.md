@@ -3,4 +3,5 @@
 ## Overview
 
 * [🌊 Pools](README.md)
-* [🪙 Wrapped Tokens](overview/wrapped-tokens.md)
+* [🚰 Providing Liquidity](overview/providing-liquidity.md)
+* [💰 Fees and Rewards](overview/fees-and-rewards.md)
