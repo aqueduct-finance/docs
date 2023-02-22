@@ -8,19 +8,50 @@ description: >-
 
 ## Protocol Overview
 
-{% content-ref url="overview/in-depth-overview/" %}
-[in-depth-overview](overview/in-depth-overview/)
+{% content-ref url="protocol-overview/what-is-aqueduct.md" %}
+[what-is-aqueduct.md](protocol-overview/what-is-aqueduct.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/in-depth-overview/providing-liquidity.md" %}
-[providing-liquidity.md](overview/in-depth-overview/providing-liquidity.md)
+{% content-ref url="protocol-overview/protocol-concepts/" %}
+[protocol-concepts](protocol-overview/protocol-concepts/)
 {% endcontent-ref %}
 
-{% content-ref url="overview/in-depth-overview/fees-and-rewards.md" %}
-[fees-and-rewards.md](overview/in-depth-overview/fees-and-rewards.md)
+{% content-ref url="protocol-overview/in-depth-overview/" %}
+[in-depth-overview](protocol-overview/in-depth-overview/)
 {% endcontent-ref %}
 
-{% content-ref url="resources/guides/aqueduct-quickstart/" %}
-[aqueduct-quickstart](resources/guides/aqueduct-quickstart/)
+{% content-ref url="protocol-overview/roadmap.md" %}
+[roadmap.md](protocol-overview/roadmap.md)
 {% endcontent-ref %}
 
+{% content-ref url="protocol-overview/community.md" %}
+[community.md](protocol-overview/community.md)
+{% endcontent-ref %}
+
+
+
+### Developers
+
+{% content-ref url="developers/smart-contract-overview.md" %}
+[smart-contract-overview.md](developers/smart-contract-overview.md)
+{% endcontent-ref %}
+
+
+
+### Resources
+
+{% content-ref url="resources/whitepaper.md" %}
+[whitepaper.md](resources/whitepaper.md)
+{% endcontent-ref %}
+
+{% content-ref url="resources/articles.md" %}
+[articles.md](resources/articles.md)
+{% endcontent-ref %}
+
+{% content-ref url="resources/guides/" %}
+[guides](resources/guides/)
+{% endcontent-ref %}
+
+{% content-ref url="resources/faqs.md" %}
+[faqs.md](resources/faqs.md)
+{% endcontent-ref %}
