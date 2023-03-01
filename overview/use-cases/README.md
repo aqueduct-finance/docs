@@ -28,8 +28,8 @@ Aqueduct allows stream payments to become fully composable.
 
 Aqueduct protects DAOs from foreign asset fluctuations.
 
-{% content-ref url="foreign-asset-fluctuation-resistance.md" %}
-[foreign-asset-fluctuation-resistance.md](foreign-asset-fluctuation-resistance.md)
+{% content-ref url="foreign-asset-fluctuation.md" %}
+[foreign-asset-fluctuation.md](foreign-asset-fluctuation.md)
 {% endcontent-ref %}
 
 ### Lowered Fees Model

@@ -9,7 +9,7 @@
 * [⚡ Use Cases](overview/use-cases/README.md)
   * [Dollar Cost Averaging](overview/use-cases/dollar-cost-averaging.md)
   * [Stream Payments](overview/use-cases/stream-payments.md)
-  * [Foreign Asset Fluctuation Resistance](overview/use-cases/foreign-asset-fluctuation-resistance.md)
+  * [Foreign Asset Fluctuation](overview/use-cases/foreign-asset-fluctuation.md)
   * [Lowered Fees Model](overview/use-cases/lowered-fees-model.md)
 * [💡 Protocol Concepts](overview/protocol-concepts/README.md)
   * [Money streams](overview/protocol-concepts/money-streams.md)
