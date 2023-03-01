@@ -4,20 +4,22 @@
 
 ## Protocol Overview
 
-* [🟦 What is Aqueduct?](protocol-overview/what-is-aqueduct.md)
-* [💡 Protocol Concepts](protocol-overview/protocol-concepts/README.md)
-  * [Money streams](protocol-overview/protocol-concepts/money-streams.md)
-  * [Real Time Finance](protocol-overview/protocol-concepts/real-time-finance.md)
-  * [ZILMM](protocol-overview/protocol-concepts/zilmm.md)
-  * [Superfluid Liquidity](protocol-overview/protocol-concepts/superfluid-liquidity.md)
-* [📚 In-Depth Overview](protocol-overview/in-depth-overview/README.md)
-  * [🏊♀ Pools](protocol-overview/in-depth-overview/readme.md)
-  * [🌊 Swapping](protocol-overview/in-depth-overview/swapping.md)
-  * [🚰 Providing Liquidity](protocol-overview/in-depth-overview/providing-liquidity.md)
-  * [💰 Fees](protocol-overview/in-depth-overview/fees-and-rewards.md)
-  * [💵 Arbitrage](protocol-overview/in-depth-overview/arbitrage.md)
-* [🛣 Roadmap](protocol-overview/roadmap.md)
-* [🎉 Community](protocol-overview/community.md)
+* [🌊 Pools](protocol-overview/readme.md)
+* [🌊 What is Aqueduct?](protocol-overview/fees-and-rewards.md)
+* [🚰 Providing Liquidity](protocol-overview/providing-liquidity.md)
+* [🔑 Key Features](protocol-overview/key-features.md)
+* [💰 Fees and Rewards](protocol-overview/fees-and-rewards-1.md)
+* [⚡ Use Cases](protocol-overview/use-cases/README.md)
+  * [Dollar Cost Averaging](protocol-overview/use-cases/dollar-cost-averaging.md)
+  * [Stream Payments](protocol-overview/use-cases/stream-payments.md)
+  * [Foreign Asset Fluctuation Resistance](protocol-overview/use-cases/foreign-asset-fluctuation-resistance.md)
+  * [Lowered Fees Model](protocol-overview/use-cases/lowered-fees-model.md)
+
+## Overview
+
+* [🌊 Pools](overview/readme.md)
+* [🚰 Providing Liquidity](overview/providing-liquidity.md)
+* [💰 Fees and Rewards](overview/fees-and-rewards.md)
 
 ## Developers
 
