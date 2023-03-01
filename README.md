@@ -16,12 +16,12 @@ description: >-
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="overview/in-depth-overview/" %}
-[in-depth-overview](overview/in-depth-overview/)
+{% content-ref url="protocol-overview/in-depth-overview/" %}
+[in-depth-overview](protocol-overview/in-depth-overview/)
 {% endcontent-ref %}
 
-{% content-ref url="overview/roadmap.md" %}
-[roadmap.md](overview/roadmap.md)
+{% content-ref url="protocol-overview/roadmap.md" %}
+[roadmap.md](protocol-overview/roadmap.md)
 {% endcontent-ref %}
 
 {% content-ref url="protocol-overview/community.md" %}

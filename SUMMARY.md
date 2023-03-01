@@ -20,16 +20,16 @@
 
 ## Overview
 
-* [🌊 Pools](overview/readme/README.md)
-  * [💵 Arbitrage](overview/readme/arbitrage.md)
+* [📚 In-Depth Overview](protocol-overview/in-depth-overview/README.md)
+  * [🏊♀ Pools](protocol-overview/in-depth-overview/readme.md)
+  * [🌊 Swapping](protocol-overview/in-depth-overview/swapping.md)
+  * [🚰 Providing Liquidity](protocol-overview/in-depth-overview/providing-liquidity.md)
+  * [💰 Fees](protocol-overview/in-depth-overview/fees-and-rewards.md)
+* [🌊 Pools](overview/readme.md)
+  * [💵 Arbitrage](protocol-overview/in-depth-overview/arbitrage.md)
 * [🚰 Providing Liquidity](overview/providing-liquidity.md)
-* [🛣 Roadmap](overview/roadmap.md)
 * [💰 Fees and Rewards](overview/fees-and-rewards.md)
-* [📚 In-Depth Overview](overview/in-depth-overview/README.md)
-  * [🏊♀ Pools](overview/in-depth-overview/readme.md)
-  * [🌊 Swapping](overview/in-depth-overview/swapping.md)
-  * [🚰 Providing Liquidity](overview/in-depth-overview/providing-liquidity.md)
-  * [💰 Fees](overview/in-depth-overview/fees-and-rewards.md)
+* [🛣 Roadmap](protocol-overview/roadmap.md)
 
 ## Developers
 
