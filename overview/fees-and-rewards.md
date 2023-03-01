@@ -1,43 +1,21 @@
-# 💰 Fees and Rewards
+---
+description: The trading protocol for real-time finance.
+---
 
-Aqueduct pays out rewards to LPs in order to incentivize liquidity contributions. Aqueduct does not distinguish between LPs and regular swaps - instead, we calculate a static reward percentage at the start of each stream:
+# 🌊 What is Aqueduct?
 
-$$
-fee_{\%}=\frac{|ratio_{user}-ratio_{pool}|}{ratio_{user}+ratio_{pool}}
-$$
+## Token Swaps, Powered by Money-Streams
 
-$$
-reward_{\%}=1-fee_{\%}
-$$
+Aqueduct is a real-time decentralized exchange that allows users to swap tokens and provide liquidity through money streams. This is done through a framework of smart contracts on Ethereum, allowing you to seamlessly swap funds from one token to another. Built on Superfluid, we inherit all of the core functionality that makes the transferring of tokens on a per second basis possible.
 
-That fee percentage ranges from 0 to 1. For example, a trader streaming in only one token (swapping) would have a fee percentage of 1 (100%). An LP whose ratio of streams perfectly matches the pool ratio would have a fee percentage of 0. Each percentage is static and calculated at the start of a stream, meaning LPs do not need to worry about changes in the pool ratio.
+We currently define ourselves as two types of market makers:
 
-## Swaps
+****:potable\_water: **"ZILMM"** - A Zero-Intermediate-Liquidity Market Maker, or ZILMM, is a specific form of AMM enabled by money streams that requires zero intermediate liquidity. This means that the total value locked by ZILMMs is zero. Instead of using locked pools of liquidity, liquidity for swaps is sourced instantaneously by incoming flows.
 
-Let's say that our pool now has a 0.5% fee:
+****:ocean: **"TWAMM"** - A time-weighted automated maker, or TWAMM. A variation on a traditional AMM that allows traders to execute orders over a period of time. It breaks trades into infinitely many infinitely small virtual orders, and executes them against an embedded constant-product AMM over time.
 
-![](<../.gitbook/assets/Screenshot 2022-08-15 at 11.52.54 PM.png>)
+Aqueduct exists as a TWAMM and a ZILMM at the same time - Zero intermediate liquidity is required, and swaps take place over time through money streams.
 
-The user's fee percentage would be 1, meaning they pay the entirety of that 0.5% pool fee. Their outgoing flow is calculated as follows:
+## A New Class of DEX
 
-$$
-flow_{B,out} =10_{A,in}\cdot\frac{1000_{B,in}}{510_{A,in}}\cdot 0.995
-$$
-
-## LP + Swap
-
-An LP is rewarded based on their reward percentage and the size of their liquidity contribution. If a given LP has a reward percentage of 1 and controls all liquidity in the pool, then they would receive all of the fees paid by traders. Let's take the LP example from earlier and now introduce a 10% fee:
-
-![](<../.gitbook/assets/Screenshot 2022-08-16 at 12.07.56 AM.png>)
-
-Because the LP started their streams before the trader, their reward percentage is recorded as 1. We can calculate the amount of fees paid in token A by the trader as follows:
-
-$$
-fees_A=5_{B,in}\cdot\frac{100_{A,in}}{205_{B,in}}\cdot0.1
-$$
-
-Because the LP is providing all liquidity for token A, they get the entirety of those fees. We can calculate the LP's return stream of token A as follows:
-
-$$
-flow_{A,out}=\bigg(200_{B,in}\cdot\frac{100_{A,in}}{205_{B,in}}\bigg)+fees_A
-$$
+Aqueduct exists as an entirely new class of DEX in the ever evolving ecosystem that is DeFi. We are the first exchange for allow for zero intermediate liquidity, or 0 value locked - liquidity providers don't have to deposit tokens to provide liquidity. Aqueduct is also the first stream-native DEX that allows for the per second transfer of one asset to another.

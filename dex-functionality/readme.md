@@ -1,7 +1,3 @@
----
-description: How pools work on Aqueduct
----
-
 # 🏊♀ Pools
 
 Every Aqueduct pool consists of 2 Aqueduct tokens (custom super tokens). Inspired by Uniswap V2, our pools closely follow the automated market maker (AMM) pattern.
@@ -10,7 +6,7 @@ Every Aqueduct pool consists of 2 Aqueduct tokens (custom super tokens). Inspire
 
 Our pools support a single operation: swap one token for another over a period of time. At a high level, every pool interaction will look like this:
 
-![](<../../.gitbook/assets/Screenshot 2022-08-15 at 9.10.48 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-08-15 at 9.10.48 PM.png>)
 
 For reference, ETHxp and USDCxp are Aqueduct pool tokens - wrapped tokens that implement additional functionality to existing erc20 tokens. Aqueduct pool tokens are also super tokens, see:
 
@@ -26,7 +22,7 @@ As shown, a user will start a standard (static flow rate) stream into the pool. 
 
 Let's take a look under the hood at how that outgoing stream is actually priced:
 
-![](<../../.gitbook/assets/Screenshot 2022-08-15 at 9.34.10 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-08-15 at 9.34.10 PM.png>)
 
 Aqueduct prices assets using the ratio of liquidity of each token in the pool. We define liquidity as the total amount of a given token that is being streamed into the pool per second. The above diagram shows that 500 token A and 1000 token B are already being streamed every second into the pool.
 
@@ -36,6 +32,6 @@ $$
 
 Now, let's see what would happen if another user comes along and sways the price by making a large swap:
 
-![](<../../.gitbook/assets/Screenshot 2022-08-15 at 9.54.09 PM.png>)
+![](<../.gitbook/assets/Screenshot 2022-08-15 at 9.54.09 PM.png>)
 
 Trader 2 streams in a large amount of token B and receives a proportionate amount of token A based on the new ratio of liquidity. At the same time, the first trader's outgoing stream is also updated (the old flow rate is still preserved for the amount of time it was in effect).
