@@ -1,3 +1,7 @@
+---
+description: How providing liquidity works on Aqueduct
+---
+
 # 🚰 Providing Liquidity
 
 A liquidity provider (LP) will stream in a proportionate amount of both token A and token B, so as to maintain the previous ratio of liquidity:

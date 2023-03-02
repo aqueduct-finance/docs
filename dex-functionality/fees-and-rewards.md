@@ -1,6 +1,14 @@
-# 💰 Fees and Rewards
+---
+description: How fees work on Aqueduct
+---
 
-Aqueduct pays out rewards to LPs in order to incentivize liquidity contributions. Aqueduct does not distinguish between LPs and regular swaps - instead, we calculate a static reward percentage at the start of each stream:
+# 💰 Fees
+
+Aqueduct pays out rewards to LPs in order to incentivize liquidity contributions.&#x20;
+
+
+
+Aqueduct does not distinguish between LPs and regular swaps - instead, we calculate a static reward percentage at the start of each stream:
 
 $$
 fee_{\%}=\frac{|ratio_{user}-ratio_{pool}|}{ratio_{user}+ratio_{pool}}

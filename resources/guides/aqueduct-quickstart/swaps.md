@@ -1,10 +1,14 @@
 ---
-description: Initiate a swap
+description: Initiate a swap using our demo
 ---
 
 # Swaps
 
-**1.** Head to [https://aqueductfinance.vercel.app/](https://aqueductfinance.vercel.app/) and connect your wallet.
+**IMPORTANT**: Because Superfluid has not released their [Flow Distribution Agreement (FDA)](https://docs.superfluid.finance/superfluid/protocol-overview/in-depth-overview/super-agreements/streaming-distributions-coming-soon), which contains the logic needed for Aqueduct to be composable with the rest of the Superfluid ecosystem, we have temporarily built the required logic into our pool and also, a custom token. Our demo app uses a custom `SuperToken` with a modified `realTimeBalance` function. These tokens have an `xp` suffix. `x` denotes it being a SuperToken and `p` denotes pool. This is because these tokens are not composable with the rest of the real time finance ecosystem - only Aqueduct's pools.
+
+****
+
+**1.** Head to [https://demo.aqueduct.fi/](https://demo.aqueduct.fi/) and connect your wallet.
 
 <figure><img src="../../../.gitbook/assets/Screen Recording 2022-11-28 at 21.30.42.gif" alt="Gif showing how to connect your wallet"><figcaption></figcaption></figure>
 

@@ -1,25 +1,25 @@
 ---
-description: What makes Aqueduct a unique medium of exchange?
+description: What makes Aqueduct unique?
 ---
 
 # 🔑 Key Features
 
-## A New Standard
+## A New type of AMM
 
-Aqueduct brings new functionality to DeFi that improve on the inefficiencies of the current common exchange structure.&#x20;
+Aqueduct is a Zero Intermediary-Liquidity Market Maker (ZILMM). This is a novel design that hopes to unlock new use-cases for DeFi, and offer significant capital efficiency improvements over other AMM designs.
 
-### One Transaction DCA -
+### One Transaction DCA
 
-Swaps on Aqueduct take place per second where the amount swapped per second is specified by the users chosen flow rate. Normal DCA tools and strategies require recurring discrete transactions over a given period of time to "average" the users position. With Aqueduct, a single transaction is made and a per second stream of one token to another is started.
+Dollar-Cost Averaging (DCA) today is inefficient. Swaps on Aqueduct take place every second, where the amount swapped per second is specified by the user's chosen flow rate. Traditional DCA tools and strategies require recurring discrete (lump sum) transactions over a given period of time to "average" the users position. With Aqueduct, a single transaction is made and users get the desired token back every second. This reduces transaction costs, improves capital efficiency, and simplifies DCA transaction flows.&#x20;
 
-### 0 Value Locked -
+### 0 TVL (Total Value Locked)
 
-Assets streamed into the protocol are streamed out simultaneously. Funds are constantly streamed in and out of the protocol, no tokens are ever held by Aqueduct. Liquidity Providers have immediate access to their tokens - any liquidity streamed in is immediately streamed out and back in until the position is liquidated. LPs now have the opportunity to gain yield from their positions whilst simultaneously participating in any other protocol they choose.
+Assets streamed into the protocol are streamed out simultaneously. No tokens are ever held by Aqueduct's contracts. Liquidity Providers have immediate access to their tokens - any liquidity streamed in is immediately streamed out until the stream is cancelled, or the position is liquidated. LPs now have the opportunity to gain yield from their positions whilst using the same tokens to simultaneously participating in any other protocol they choose.
 
-### Superfluid Liquidity -&#x20;
+### Superfluid Liquidity
 
-Superfluid Liquidity is __ a form of liquidity enabled by money streams that does not stop moving. Similar to how a real superfluid has zero viscosity and continues to flow without any loss of kinetic energy — Superfluid liquidity never stops. It is this characteristic that powers the 0 TVL architecture of Aqueduct. All liquidity that flows into the pool has to flow out, unlocking new possibilities for liquidity provision.
+Superfluid Liquidity is __ a form of liquidity enabled by money streams that does not stop moving. Similar to how a real superfluid has zero viscosity and continues to flow without any loss of kinetic energy — Superfluid liquidity never stops. It is this characteristic that powers the 0 TVL architecture of Aqueduct. All liquidity that flows into the pool has to flow out, unlocking new possibilities for liquidity provision. For example, a liquidity provider could use the same 2 ETH for two pools at the same time, without having to split the number of assets in half.
 
-### MEV Resistance -
+### MEV Resistance
 
-Money streams enabled bye Superfluid are not restricted by the order of transactions that take place within a block. Therefor, direct MEV attacks have no affect on a users stream. A user is still susceptible to slippage and price impact - however, the longer a swap is active, the less the effect of price impact within a single block.
+Trades are not restricted by the order of transactions that take place within a block. Therefore, sandwich attacks have no affect on a users stream. A user is still susceptible to price impact - however, the longer a swap is active, the less the effect of price impact within a single block.
