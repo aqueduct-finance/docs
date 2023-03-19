@@ -20,8 +20,8 @@ Aqueduct provides the most efficient DCA in DeFi.
 
 Aqueduct allows stream payments to become fully composable.
 
-{% content-ref url="stream-payments.md" %}
-[stream-payments.md](stream-payments.md)
+{% content-ref url="stream-payments/" %}
+[stream-payments](stream-payments/)
 {% endcontent-ref %}
 
 ### Foreign Asset Fluctuation
