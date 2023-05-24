@@ -1,4 +1,4 @@
-# 💳 Web3 Subscriptions
+# 💳 Web3 Subscriptions (ZILMM)
 
 Let's say you operate a music streaming platform and want to start accepting web3 subscriptions.
 

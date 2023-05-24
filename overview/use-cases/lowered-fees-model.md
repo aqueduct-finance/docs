@@ -20,7 +20,7 @@ DAOs that want to buy-back or sell their native tokens will often run into the i
 
 Here's an example of trying to buy one million USDC worth of $ARB on CoW swap.
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-05-18 at 2.09.18 PM.png" alt=""><figcaption><p>1 million $USDC for $ARB on CoW Swap (-44.27%)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-05-18 at 2.09.18 PM.png" alt=""><figcaption><p>1 million $USDC for $ARB on CoW Swap (-44.27%)</p></figcaption></figure>
 
 Aqueduct's TWAMM will solve this type of price impact problem by allowing the trade to take place over time where arbitrageurs can fix the price, sourcing liquidity from elsewhere.\
 \

@@ -2,7 +2,7 @@
 description: Aqueduct protects DAOs from foreign asset fluctuations
 ---
 
-# 💹 Foreign Asset Fluctuation
+# 💹 Foreign Asset Fluctuation (ZILMM)
 
 Current subscription models require a discrete (lump sum) transaction to take place every time a payment is required for a service or product. Superfluid Finance improved on this concept by allowing a customer to pay for a product or service on a per second basis where the subscription stays active as long as the users stream stays active.
 

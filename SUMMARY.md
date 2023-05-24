@@ -18,47 +18,45 @@
 
 * [🏋♂ Super Tokens](superfluid-concepts/super-tokens.md)
 * [🕐 Flow Rate](superfluid-concepts/flow-rate.md)
+* [☄ Money streams](superfluid-concepts/money-streams.md)
 
 ## TWAMM
 
-* [⚡ TWAMM Concepts](twamm/twamm-concepts/README.md)
+* [⚡ TWAMM Concepts](overview/protocol-concepts/README.md)
   * [✨ Decentralized Aggregation](twamm/twamm-concepts/decentralized-aggregation.md)
   * [💫 Coincidence of Wants (CoW)](twamm/twamm-concepts/coincidence-of-wants-cow.md)
-  * [☄ Money streams](twamm/twamm-concepts/money-streams.md)
-* [🫀 TWAMM Use Cases](twamm/twamm-use-cases.md)
-* [🔑 Key Features (TWAMM)](twamm/key-features-twamm.md)
+* [🫀 TWAMM Use Cases](overview/use-cases/README.md)
+* [🔑 Key Features (TWAMM)](overview/key-features.md)
 
 ## ZILMM
 
 * [💡 ZILMM Concepts](zilmm/zilmm-concepts/README.md)
   * [👽 ZILMM](zilmm/zilmm-concepts/zilmm.md)
-  * [☄ Money streams](zilmm/zilmm-concepts/money-streams.md)
   * [⌛ Real Time Finance](zilmm/zilmm-concepts/real-time-finance.md)
-  * [💫 Coincidence of Wants (CoW)](zilmm/zilmm-concepts/coincidence-of-wants-cow.md)
-  * [🔄 Superfluid Liquidity](zilmm/zilmm-concepts/superfluid-liquidity.md)
-  * [🔥 0 Value Locked](zilmm/zilmm-concepts/0-value-locked.md)
-  * [💻 MEV Resistance](zilmm/zilmm-concepts/mev-resistance.md)
+  * [🔄 Superfluid Liquidity](technical-overview/superfluid-liquidity.md)
+  * [🔥 0 Value Locked](technical-overview/0-value-locked.md)
+  * [💻 MEV Resistance](technical-overview/mev-resistance.md)
 * [🌊 ZILMM Use Cases](zilmm/zilmm-use-cases.md)
 * [🗝 Key Features (ZILMM)](zilmm/key-features-zilmm.md)
 
 ## Use Cases
 
 * [💰 Iceberg Orders](use-cases/iceberg-orders.md)
-* [💵 Dollar Cost Averaging](use-cases/dollar-cost-averaging.md)
+* [💵 Dollar Cost Averaging](overview/use-cases/dollar-cost-averaging.md)
 * [🐙 DAO Treasury](use-cases/dao-treasury.md)
-* [🍃 Fragmented Liquidity](use-cases/fragmented-liquidity.md)
+* [🍃 Fragmented Liquidity](overview/use-cases/lowered-fees-model.md)
 * [🏦 Institutional DCA](use-cases/institutional-dca.md)
-* [💹 Foreign Asset Fluctuation (ZILMM)](use-cases/foreign-asset-fluctuation-zilmm.md)
-* [💸 Recurring Payments (ZILMM)](use-cases/recurring-payments-zilmm.md)
-* [💳 Web3 Subscriptions (ZILMM)](use-cases/web3-subscriptions-zilmm.md)
+* [💹 Foreign Asset Fluctuation (ZILMM)](overview/use-cases/foreign-asset-fluctuation.md)
+* [💸 Recurring Payments (ZILMM)](overview/use-cases/stream-payments/README.md)
+* [💳 Web3 Subscriptions (ZILMM)](overview/use-cases/stream-payments/web3-subscriptions.md)
 
 ## Functionality
 
-* [🏊♀ Pools](functionality/readme.md)
-* [🌊 Swapping](functionality/readme-1.md)
-* [🚰 Providing Liquidity](functionality/providing-liquidity.md)
-* [💰 Fees](functionality/fees-and-rewards.md)
-* [💵 Arbitrage](functionality/arbitrage.md)
+* [🏊♀ Pools](dex-functionality/readme.md)
+* [🌊 Swapping](dex-functionality/readme-1.md)
+* [🚰 Providing Liquidity](dex-functionality/providing-liquidity.md)
+* [💰 Fees](dex-functionality/fees-and-rewards.md)
+* [💵 Arbitrage](dex-functionality/arbitrage.md)
 * [🏊♀ Pools (ZILMM)](functionality/readme-2.md)
 * [🌊 Swapping (ZILMM)](functionality/readme-3.md)
 * [🚰 Providing Liquidity (ZILMM)](functionality/providing-liquidity-1.md)
@@ -72,7 +70,7 @@
 ## Resources
 
 * [📰 TWAMM Whitepaper](resources/twamm-whitepaper.md)
-* [📜 ZILMM Whitepaper](resources/zilmm-whitepaper.md)
+* [📜 ZILMM Whitepaper](resources/whitepaper.md)
 * [📄 Articles](resources/articles.md)
 * [🗺 Guides](resources/guides/README.md)
   * [📜 Aqueduct Quickstart](resources/guides/aqueduct-quickstart/README.md)

@@ -16,6 +16,6 @@ With Aqueduct, you can simply convert your salary stream and get an equivalent p
 
 Read more:
 
-{% content-ref url="web3-subscriptions-zilmm.md" %}
-[web3-subscriptions-zilmm.md](web3-subscriptions-zilmm.md)
+{% content-ref url="web3-subscriptions.md" %}
+[web3-subscriptions.md](web3-subscriptions.md)
 {% endcontent-ref %}

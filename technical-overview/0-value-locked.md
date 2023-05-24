@@ -10,8 +10,8 @@ Total Value Locked (TVL) is a metric common used in crypto to represent the numb
 
 Because of money streams, along with the ZILMM design, Aqueduct can operate with 0 total value locked. This dramatically increases capital efficiency and unlocks new possibilities for liquidity provision. For more information, see our resources on Superfluid liquidity and our ZILMM page.
 
-{% content-ref url="zilmm.md" %}
-[zilmm.md](zilmm.md)
+{% content-ref url="../zilmm/zilmm-concepts/zilmm.md" %}
+[zilmm.md](../zilmm/zilmm-concepts/zilmm.md)
 {% endcontent-ref %}
 
 {% content-ref url="superfluid-liquidity.md" %}

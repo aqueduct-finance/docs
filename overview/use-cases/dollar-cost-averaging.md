@@ -14,10 +14,10 @@ Through conventional methods, Dollar Cost Averaging involves investing a fixed a
 
 Aqueduct improves upon this model by investing funds on a per second basis instead of daily, weekly, monthly, etc... Say you want to invest 1,000 USDC into ETH over a months time - with Aqueduct, you can start a stream of 1,000 USDC per month. This will effectively give the user a per second price of ETH from the user's start time to a month in the future.
 
-<figure><img src="../.gitbook/assets/Screen Shot 2023-02-26 at 5.59.56 PM.png" alt=""><figcaption><p>Aqueduct swap from USDC to DAI over a months time</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2023-02-26 at 5.59.56 PM.png" alt=""><figcaption><p>Aqueduct swap from USDC to DAI over a months time</p></figcaption></figure>
 
 Current DCA tools automate recurring transactions over a given interval of time. This of course leads to higher gas fees every time a transaction is automated while also creating a less capital efficient DCA tool. Aqueduct improves upon this concept by only requiring a single transaction to initiate, and continue executing the trade.&#x20;
 
 Traders also get reduced price impact and low trading fees through decentralized aggregation and on-chain coincidence of wants. Retail investors looking to DCA can benefit by retaining most of their value and getting the per-second price of an asset. Every second DCA is achieved while users pay a fixed gas rate and retain most of their value.
 
-Dollar cost averaging on Aqueduct's TWAMM also makes sense for institutional investing, learn more [here](institutional-dca.md).
+Dollar cost averaging on Aqueduct's TWAMM also makes sense for institutional investing, learn more [here](../../use-cases/institutional-dca.md).

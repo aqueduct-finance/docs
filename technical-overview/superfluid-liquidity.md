@@ -14,4 +14,4 @@ Say you you have 10 ETH, 10,000 DAI and 10,000 USDC, and want to provide liquidi
 
 By providing liquidity to the same pools in Aqueduct, you’d be able to re-use the ETH liquidity to make your 10 ETH go even further than it would in the above example. Through Superfluid liquidity, the same 10 ETH could be used for both the ETH/DAI and ETH/USDC pool at the same time. Thus, maximising yield for LPs and creating more efficient pools
 
-<figure><img src="../../.gitbook/assets/superfluid-liquidity-multiple-pools.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/superfluid-liquidity-multiple-pools.png" alt=""><figcaption></figcaption></figure>

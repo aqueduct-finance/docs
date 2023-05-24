@@ -12,18 +12,18 @@ description: Get a look at some of the biggest applications of Aqueducts TWAMM
 
 ### Foreign Asset Fluctuation
 
-{% content-ref url="../use-cases/foreign-asset-fluctuation-zilmm.md" %}
-[foreign-asset-fluctuation-zilmm.md](../use-cases/foreign-asset-fluctuation-zilmm.md)
+{% content-ref url="../overview/use-cases/foreign-asset-fluctuation.md" %}
+[foreign-asset-fluctuation.md](../overview/use-cases/foreign-asset-fluctuation.md)
 {% endcontent-ref %}
 
 ### Web3 Subscriptions
 
-{% content-ref url="../use-cases/web3-subscriptions-zilmm.md" %}
-[web3-subscriptions-zilmm.md](../use-cases/web3-subscriptions-zilmm.md)
+{% content-ref url="../overview/use-cases/stream-payments/web3-subscriptions.md" %}
+[web3-subscriptions.md](../overview/use-cases/stream-payments/web3-subscriptions.md)
 {% endcontent-ref %}
 
 ### Stream Payments
 
-{% content-ref url="../use-cases/recurring-payments-zilmm.md" %}
-[recurring-payments-zilmm.md](../use-cases/recurring-payments-zilmm.md)
+{% content-ref url="../overview/use-cases/stream-payments/" %}
+[stream-payments](../overview/use-cases/stream-payments/)
 {% endcontent-ref %}
