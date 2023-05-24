@@ -6,7 +6,7 @@ description: Initiate a swap using our demo
 
 **IMPORTANT**: Because Superfluid has not released their [Flow Distribution Agreement (FDA)](https://docs.superfluid.finance/superfluid/protocol-overview/in-depth-overview/super-agreements/streaming-distributions-coming-soon), which contains the logic needed for Aqueduct to be composable with the rest of the Superfluid ecosystem, we have temporarily built the required logic into our pool and also, a custom token. Our demo app uses a custom `SuperToken` with a modified `realTimeBalance` function. These tokens have an `xp` suffix. `x` denotes it being a SuperToken and `p` denotes pool. This is because these tokens are not composable with the rest of the real time finance ecosystem - only Aqueduct's pools.
 
-****
+
 
 **1.** Head to [https://demo.aqueduct.fi/](https://demo.aqueduct.fi/) and connect your wallet.
 

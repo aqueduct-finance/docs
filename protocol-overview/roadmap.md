@@ -1,9 +1,7 @@
 ---
-description: Get a look at Aqueducts future... ☀️😎
+description: Take a look at Aqueduct's future... ☀️😎
 ---
 
 # 🛣 Roadmap
 
-
-
-<figure><img src="../.gitbook/assets/Screen Shot 2023-03-05 at 9.39.47 PM.png" alt=""><figcaption></figcaption></figure>
+Roadmap is currently being updated, please contact the Aqueduct team for an updated roadmap.
