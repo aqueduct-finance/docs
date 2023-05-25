@@ -22,6 +22,7 @@
 
 ## TWAMM
 
+* [⚙ Technical One-Pager](twamm/technical-one-pager.md)
 * [⚡ TWAMM Concepts](overview/protocol-concepts/README.md)
   * [✨ Decentralized Aggregation](twamm/twamm-concepts/decentralized-aggregation.md)
   * [💫 Coincidence of Wants (CoW)](twamm/twamm-concepts/coincidence-of-wants-cow.md)
