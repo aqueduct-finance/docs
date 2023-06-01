@@ -1,5 +1,5 @@
 ---
-description: How swapping tokens work on Aqueducts ZILMM
+description: How swapping tokens work on Aqueduct's ZILMM
 ---
 
 # 🌊 Swapping (ZILMM)

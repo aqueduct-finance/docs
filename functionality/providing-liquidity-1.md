@@ -1,5 +1,5 @@
 ---
-description: How providing liquidity works on Aqueducts ZILMM
+description: How providing liquidity works on Aqueduct's ZILMM
 ---
 
 # 🚰 Providing Liquidity (ZILMM)

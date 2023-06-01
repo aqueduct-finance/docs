@@ -56,12 +56,11 @@
 * [🏊♀ Pools](dex-functionality/readme.md)
 * [🌊 Swapping](dex-functionality/readme-1.md)
 * [🚰 Providing Liquidity](dex-functionality/providing-liquidity.md)
-* [💰 Fees](dex-functionality/fees-and-rewards.md)
 * [💵 Arbitrage](dex-functionality/arbitrage.md)
 * [🏊♀ Pools (ZILMM)](functionality/readme-2.md)
 * [🌊 Swapping (ZILMM)](functionality/readme-3.md)
 * [🚰 Providing Liquidity (ZILMM)](functionality/providing-liquidity-1.md)
-* [💰 Fees (ZILMM)](functionality/fees-and-rewards-1.md)
+* [💰 Fees (ZILMM)](functionality/fees-and-rewards.md)
 * [💵 Arbitrage (ZILMM)](functionality/arbitrage-zilmm.md)
 
 ## Developers
