@@ -65,7 +65,11 @@
 
 ## Developers
 
-* [💻 Smart Contract Overview](developers/smart-contract-overview.md)
+* [💻 Smart Contracts](developers/smart-contracts/README.md)
+  * [AqueductV1Factory](developers/smart-contracts/aqueductv1factory.md)
+  * [AqueductV1Auction](developers/smart-contracts/aqueductv1auction.md)
+  * [AqueductV1Pair](developers/smart-contracts/aqueductv1pair.md)
+  * [AqueductV1Router](developers/smart-contracts/aqueductv1router.md)
 
 ## Resources
 

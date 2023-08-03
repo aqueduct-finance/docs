@@ -46,8 +46,8 @@ description: >-
 
 ### Developers
 
-{% content-ref url="developers/smart-contract-overview.md" %}
-[smart-contract-overview.md](developers/smart-contract-overview.md)
+{% content-ref url="developers/smart-contracts/" %}
+[smart-contracts](developers/smart-contracts/)
 {% endcontent-ref %}
 
 
