@@ -70,6 +70,9 @@
   * [AqueductV1Auction](developers/smart-contracts/aqueductv1auction.md)
   * [AqueductV1Pair](developers/smart-contracts/aqueductv1pair.md)
   * [AqueductV1Router](developers/smart-contracts/aqueductv1router.md)
+* [🌐 SDK](developers/sdk/README.md)
+  * [🌊 Starting a swap](developers/sdk/starting-a-swap.md)
+  * [🔍 Tracking swaps](developers/sdk/tracking-swaps.md)
 
 ## Resources
 
