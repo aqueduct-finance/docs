@@ -19,11 +19,3 @@ The Aqueduct TWAMM Pool simulation tool allows you to get a real time visualizat
 {% content-ref url="twamm-pool-simulator.md" %}
 [twamm-pool-simulator.md](twamm-pool-simulator.md)
 {% endcontent-ref %}
-
-### Aqueduct ZILMM Simulation Tool
-
-The Aqueduct ZILMM Pool simulation tool allows you to get a visualization of what the reactive pool and swapping structure looks like on Aqueducts ZILMM.
-
-{% content-ref url="zilmm-simulator.md" %}
-[zilmm-simulator.md](zilmm-simulator.md)
-{% endcontent-ref %}

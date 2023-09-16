@@ -32,16 +32,16 @@ description: >-
 
 ### Technical Overview
 
-{% content-ref url="technical-overview/0-value-locked.md" %}
-[0-value-locked.md](technical-overview/0-value-locked.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="technical-overview/superfluid-liquidity.md" %}
-[superfluid-liquidity.md](technical-overview/superfluid-liquidity.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="technical-overview/mev-resistance.md" %}
-[mev-resistance.md](technical-overview/mev-resistance.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ### Developers
