@@ -78,7 +78,7 @@ You can set optional parameters to make the appearance of the swap widget fit pe
 
 You can customize the border radius, colors, and fonts of the widget to match the design of your app. We also have a few pre-defined themes you can use as defaults, such as light and dark mode.&#x20;
 
-<figure><img src="../.gitbook/assets/Group 881233855.png" alt=""><figcaption><p>Default swap widget</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 881233855 (1).png" alt=""><figcaption><p>Default swap widget</p></figcaption></figure>
 
 All of the attributes shown above are hex codes (e.g. #FFFFFF), except 'textFont.' Fonts should be formatted as such:
 
