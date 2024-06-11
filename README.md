@@ -1,71 +1,24 @@
 ---
-description: >-
-  Aqueduct is the world's first decentralized exchange native to the real-time
-  economy
+description: The escrowless OTC swap.
 ---
 
-# 🌊 Aqueduct
+# 👋 Welcome to Aqueduct
 
-## Protocol Overview
+**About Aqueduct**
 
-{% content-ref url="overview/key-features.md" %}
-[key-features.md](overview/key-features.md)
-{% endcontent-ref %}
+Aqueduct is an OTC swap solution that empowers teams, traders, institutional investors, and dealers to facilitate and execute OTC transactions without a manual escrow. Our swap tool allows you to create orders and your counterparty to fill them without funds leaving your wallet until the transaction is executed. The process of creating and executing a swap can take as little as 60 seconds.
 
-{% content-ref url="overview/use-cases/" %}
-[use-cases](overview/use-cases/)
-{% endcontent-ref %}
+The purpose of Aqueduct is to serve the OTC market with tooling that removes the trust aspect that comes with a human escrow. In the digital age of finance, you should have the tools necessary to execute OTC transactions specific to you and your needs without the need to trust a human escrow.
 
-{% content-ref url="overview/protocol-concepts/" %}
-[protocol-concepts](overview/protocol-concepts/)
-{% endcontent-ref %}
+**Features**
 
-{% content-ref url="protocol-overview/roadmap.md" %}
-[roadmap.md](protocol-overview/roadmap.md)
-{% endcontent-ref %}
+Aqueduct comes with features built in to meet your needs. These features are listed below:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
+* Escrowless Swaps
+* Order Filler Restrictions
+* Lockup Enforcement
+* Pre-trade Privacy
+* Partial Fills
+* Dealer Pages
+* Token Lockup Trading (Coming soon)
 
-
-
-### Technical Overview
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-### Developers
-
-{% content-ref url="developers/smart-contracts/" %}
-[smart-contracts](developers/smart-contracts/)
-{% endcontent-ref %}
-
-
-
-### Resources
-
-{% content-ref url="resources/whitepaper.md" %}
-[whitepaper.md](resources/whitepaper.md)
-{% endcontent-ref %}
-
-{% content-ref url="resources/articles.md" %}
-[articles.md](resources/articles.md)
-{% endcontent-ref %}
-
-{% content-ref url="resources/guides/" %}
-[guides](resources/guides/)
-{% endcontent-ref %}
-
-{% content-ref url="resources/faqs.md" %}
-[faqs.md](resources/faqs.md)
-{% endcontent-ref %}
